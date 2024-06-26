@@ -28,7 +28,8 @@ input details:
 ![alt text](image.png)
 
 model result (example):
-image-2.png
+![image](https://github.com/mudit404/crop_recommendation/assets/93205166/edb7c637-d224-4814-9ff0-ff27a10fe5be)
+
 
 Clone the repository: git clone https://github.com/your-username/crop-recommendation-system.git
 Install the required dependencies: pip install -r requirements.txt
