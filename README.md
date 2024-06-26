@@ -28,7 +28,7 @@ input details:
 ![alt text](image.png)
 
 model result (example):
-![alt text](image-1.png)
+image-2.png
 
 Clone the repository: git clone https://github.com/your-username/crop-recommendation-system.git
 Install the required dependencies: pip install -r requirements.txt
