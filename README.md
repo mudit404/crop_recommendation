@@ -23,7 +23,13 @@ NumPy: Library for numerical computing used for handling arrays and mathematical
 Flask: Web framework used for building the user interface and handling HTTP requests.
 HTML/CSS: Markup and styling languages used for designing the web interface.
 JavaScript: Scripting language used for client-side interactions and enhancing the user interface.
-# Installation and Usage
+# Usage
+input details:
+![alt text](image.png)
+
+model result (example):
+![alt text](image-1.png)
+
 Clone the repository: git clone https://github.com/your-username/crop-recommendation-system.git
 Install the required dependencies: pip install -r requirements.txt
 Run the application: python app.py
@@ -41,6 +47,5 @@ Contributions to the project are welcome. If you have any suggestions, bug repor
 # Acknowledgements
 We would like to express our gratitude to the agricultural research community, farmers, and organizations for providing valuable insights, data, and domain knowledge that contributed to the development of this Crop Recommendation System.
 
-# Contact
-For any inquiries or questions, please contact us at 611noorsaeed@gmail.com
+
 >>>>>>> e852777 (initial commit)
